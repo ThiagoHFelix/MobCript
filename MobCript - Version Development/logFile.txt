@@ -1,0 +1,80 @@
+
+====================================================================================
+ Aplicação executada em Dec  8 2016 , Horario: 17:39:28 .
+
+ Mensagem clara: AlohaAAA 
+ Chave de criptografia: 7 
+Mensagem criptada: HsvohHHH 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  8 2016 , Horario: 17:42:28 .
+
+ Mensagem clara: jordan_lor** 
+ Chave de criptografia: 3 
+ Mensagem criptografada: mrugdqooru** 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  8 2016 , Horario: 17:44:40 .
+
+ Mensagem clara: a- 
+ Chave de criptografia: 2 
+ Mensagem criptografada: cooooooooo 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  8 2016 , Horario: 17:48:08 .
+
+ Mensagem clara: ab.. 
+ Chave de criptografia: 1 
+ Mensagem criptografada: bcoooooooo 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  9 2016 , Horario: 17:32:24 .
+
+ Mensagem clara: Aoloha  
+ Chave de criptografia: 3 
+ Mensagem criptografada: Drorkd---- 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  9 2016 , Horario: 17:32:24 .
+
+ Mensagem clara: a sw*q 
+ Chave de criptografia: 3 
+ Mensagem criptografada: d-vz-t---- 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  9 2016 , Horario: 17:32:24 .
+
+ Mensagem clara:  
+ Chave de criptografia: 0 
+ Mensagem criptografada: ---------- 
+
+
+====================================================================================
+
+====================================================================================
+ Aplicação executada em Dec  9 2016 , Horario: 17:32:24 .
+
+ Mensagem clara: thiago 
+ Chave de criptografia: 2 
+ Mensagem criptografada: vjkciq---- 
+
+
+====================================================================================
